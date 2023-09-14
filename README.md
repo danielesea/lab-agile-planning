@@ -1,2 +1,2 @@
 # lab-agile-planning
-Hi! i'm devop's student
+This repository contains the lab for agile planning
